@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace HW7_BehavioralPatterns
 {
     public class Door

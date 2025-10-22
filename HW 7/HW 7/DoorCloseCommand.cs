@@ -1,6 +1,4 @@
-﻿using HW7_BehavioralPatterns;
-
-namespace HW7_BehavioralPatterns
+﻿namespace HW7_BehavioralPatterns
 {
     public class DoorCloseCommand : ICommand
     {

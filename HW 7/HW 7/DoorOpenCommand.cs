@@ -1,6 +1,4 @@
-﻿using HW_5;
-
-namespace HW7_BehavioralPatterns
+﻿namespace HW7_BehavioralPatterns
 {
     public class DoorOpenCommand : ICommand
     {

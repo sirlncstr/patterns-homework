@@ -1,6 +1,4 @@
-﻿using HW7_BehavioralPatterns;
-
-namespace HW7_BehavioralPatterns
+﻿namespace HW7_BehavioralPatterns
 {
     public class TVOnCommand : ICommand
     {
@@ -9,4 +7,4 @@ namespace HW7_BehavioralPatterns
         public void Execute() { _tv.TurnOn(); }
         public void Undo() { _tv.TurnOff(); }
     }
-}   
+}
